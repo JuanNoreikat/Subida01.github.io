@@ -1,1 +1,2 @@
 *Correccion sobre @extend, ¡ahora funciona! NOTA: Es necesario tener dentro de la carpeta del proyecto, la carpeta "node_modules" que se instala con el comando: "npm i bootstrap". Tambien es posible reemplazar el directorio local con links y scripts cdn correspondientes a bootstrap.
+*Correccion 2: se añadieron los cdn de bootstrap, arreglando el dropdown que estaba roto.
